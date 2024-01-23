@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pocauthenticator-dev-174217-authRole",
+      "UnauthRoleArn": "arn:aws:iam::995365708897:role/amplify-pocauthenticator-dev-174217-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::995365708897:role/amplify-pocauthenticator-dev-174217-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pocauthenticator-dev-174217-deployment",
+      "UnauthRoleName": "amplify-pocauthenticator-dev-174217-unauthRole",
+      "StackName": "amplify-pocauthenticator-dev-174217",
+      "StackId": "arn:aws:cloudformation:us-east-1:995365708897:stack/amplify-pocauthenticator-dev-174217/830d5f70-b009-11ee-977f-0ed77e1c951f",
+      "AmplifyAppId": "d23yx74gnn4oxh"
+    },
+    "categories": {
+      "auth": {
+        "pocauthenticatora97d93f7": {}
+      }
+    }
+  }
+}
