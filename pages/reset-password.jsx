@@ -17,7 +17,6 @@ const HomePage = () => {
 
 return (
   <Authenticator
-    loginMechanisms={['email']}
     hideSignUp={true}
     initialState="forgotPassword"
   >

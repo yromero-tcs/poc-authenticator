@@ -23,7 +23,6 @@ const HomePage = (): JSX.Element => {
 
   return (
     <Authenticator
-      loginMechanisms={['email']}
       hideSignUp={true}
     >
       {({ signOut, user }) => (
